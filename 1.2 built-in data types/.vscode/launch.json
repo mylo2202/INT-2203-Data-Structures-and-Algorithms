@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SumOfTwoDice",
+            "request": "launch",
+            "mainClass": "SumOfTwoDice",
+            "projectName": "1.2 built-in data types_66e681bc"
+        }
+    ]
+}
